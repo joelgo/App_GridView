@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App_GridView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_disco">Disco</string>
+    <string name="title_activity_tecmouse">tecmouse</string>
+    <string name="title_activity_audifonos">Audifonos</string>
+    <string name="title_activity_usb">Usb</string>
+</resources>
